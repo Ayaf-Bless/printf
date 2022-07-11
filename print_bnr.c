@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_bnr - function that prints decimal in binary
+ * print_bnr - prints decimal in binary
  * @arguments: input string
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer

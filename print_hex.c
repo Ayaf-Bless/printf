@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_hex - function that prints a decimal in hexadecimal
+ * print_hex - prints a decimal in hexadecimal
  * @arguments: input string
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
