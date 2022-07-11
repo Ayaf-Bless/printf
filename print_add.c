@@ -1,10 +1,10 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * print_add - prints the address of an input variable
+ * print_add - function that prints the address of an input variable
  * @arguments: input address.
  * @buf: buffer pointer.
- * @ibuf: index for buffer pointer
+ * @ibuf: index for buffer pointer.
  *
  * Return: number of chars printed.
  */
