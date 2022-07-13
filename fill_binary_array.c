@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * fill_binary_array - prints decimal in binary
+ * fill_binary_array - function that prints decimal in binary
  * @binary: pointer to binary
  * @int_in: input number
  * @isneg: if input number is negative
