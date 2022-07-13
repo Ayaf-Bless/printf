@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * prinhoct - prints long decimal number in octal
+ * prinhoct - function that prints long decimal number in octal
  * @arguments: input number
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer

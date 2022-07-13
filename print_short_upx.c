@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * prinhupx - prints a short decimal in hexadecimal
+ * prinhupx - function that prints a short decimal in hexadecimal
  * @arguments: The character to print
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
