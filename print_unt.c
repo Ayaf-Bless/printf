@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_unt - prints an unsigned int
+ * print_unt - function prints an unsigned int
  * @arguments: number to print
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
